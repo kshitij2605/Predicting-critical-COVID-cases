@@ -1,4 +1,8 @@
-# HELPER FUNCTIONS
+# Predicting critical COVID-19 cases
+
+Here I predict whether a person suffering from COVID will get critical or not so that the government can manage the provision of beds and ventilators efficiently
+
+## HELPER FUNCTIONS
 
 To read a csv file and convert into numpy array, you can use genfromtxt of the numpy package.
 For Example:
